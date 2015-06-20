@@ -1,0 +1,1 @@
+#!/home/thompsont/bin/ruby
